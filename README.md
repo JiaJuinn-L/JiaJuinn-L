@@ -14,9 +14,5 @@ I am a Software Engineering student with a strong interest in learning and apply
 ---
 [![](https://komarev.com/ghpvc/?username=JiaJuinn-L&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=JiaJuinn-L&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=JiaJuinn-L&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=JiaJuinn-L&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
